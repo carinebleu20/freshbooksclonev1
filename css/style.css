@@ -1,0 +1,132 @@
+body{
+	background-color:none;
+	font-family:'Sans Open ', 'sans-serif'
+    font-weight: 300px;
+	color: #7d7d7d;
+	font-size:17px;
+	line-height: 1.8em;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-left:30px; 
+
+}
+ .list-inline {
+   text-align:right;
+}
+nav{
+	background-color: none;
+	margin: 0px;
+}
+h1{
+	color: blue;
+	padding-left:0px;
+}
+
+#wrapper{
+	background-color: white;
+	width: 1200px;
+	
+	display:table;
+	border-radius: 2px;
+  }
+  #left-container{
+  	width: 35%;
+  	float: left;
+  }
+
+#right-container{
+	width: 60%;
+	float: right;
+}
+  .container{
+  	padding:30px;
+	margin:0px;	
+  }
+.list-inline1{
+list-style: none;
+	margin: 0;
+	padding: 0;	
+}
+.list-inline1 li{
+	float: left;
+	margin-left:20px;
+	padding:10px;
+}
+
+h2{
+	color: blue;
+	padding-left:0px;
+}
+
+.main{
+ list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.main li{
+	float: left;
+	margin-left:40px;
+	padding:10px;
+}
+
+.container1{
+display:table;
+margin-left: 30px;	
+}
+.main1{
+display:table;
+margin-left: 10px;	
+}
+.form-group{
+	text-align: center;
+
+}
+h5, h6{
+	text-align: center;
+}
+h5 .dav{
+	font-family: 'italic'
+}
+
+.img-circle{
+	width: 130px;
+	margin-left: 110px;
+}
+.bin{
+	text-align: center;
+}
+
+.feature1{
+	text-align: center;
+}
+.feature2{
+display:table;
+}
+p .dia{
+	text-align: center;
+}
+.feature3{
+	text-align: center;
+}
+
+.center{
+	margin-left:60px;
+	text-align: center;
+}
+
+.pat{
+list-style: none;	
+}
+
+.feature4{
+	margin-left: 160px;
+}
+
+a #hover{
+	background-color:none;
+}
+#hover a:hover{
+	background-color:blue;
+
+}
