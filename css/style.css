@@ -23,20 +23,24 @@ h1{
 	padding-left:0px;
 }
 
-#wrapper{
-	background-color: white;
-	width: 1200px;
-	
+#wrapper{	
+	width: 100%;
 	display:table;
 	border-radius: 2px;
   }
+
+.container{
+	width: 100%;
+	background-color:#C9DCE3;
+}
+
   #left-container{
-  	width: 35%;
+  	width: 46%;
   	float: left;
   }
 
 #right-container{
-	width: 60%;
+	width: 50%;
 	float: right;
 }
   .container{
@@ -75,6 +79,7 @@ display:table;
 margin-left: 30px;	
 }
 .main1{
+	background-color: #E5F4DE;
 display:table;
 margin-left: 10px;	
 }
@@ -123,10 +128,81 @@ list-style: none;
 	margin-left: 160px;
 }
 
-a #hover{
-	background-color:none;
+.point{
+margin-bottom: 0px;	
 }
-#hover a:hover{
-	background-color:blue;
 
+.roi{
+	height: 300px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+	background-color: rgb(13, 131, 221);
 }
+
+.centar{
+	margin-top: 0px;
+}
+
+.centar h2,img{
+margin-top: 0px;
+padding-top: 40px;
+margin-bottom: 40px;
+}
+
+.centar h2{
+	color: white;
+	margin-left:30px; 
+}
+
+.centar img{
+	margin-left: 450px;
+}
+
+.pan p{
+	margin-left:360px;
+}
+
+p .pour {
+	color: blue;
+}
+ section{
+ 	 border: 1px solid black;
+ 	padding-top: 20px;
+	display: inline-block;
+	width: 1260px;
+	height: 80px;
+   border: 1px solid blue;
+  vertical-align: top;
+}
+
+.btn-primary{
+	background-color: #AAD662;
+	border-color: #AAD662; 
+	color:#FFFDDC;
+}
+
+.btn-primary:hover{
+	background-color: #16a085;
+	border-color:  #16a085;
+}
+em{
+	color: white;
+}
+
+.wrapper4{
+	margin-bottom: 20px;
+}
+
+ button{
+ 	background-color: #86C620;
+ 	border-color: #86C620; 
+	color:#FFFDDC;
+	width: 230px;
+	height: 60px;
+}
+
+
+button:hover{
+	background-color: #AAD662;
+	border-color: #AAD662;
+  }
